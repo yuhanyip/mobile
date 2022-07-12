@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rollDice">Roll Dice</string>
+    <string name="roll">Roll</string>
+    <string name="rules">The basic premise of the game is this: you roll six dice.
+        Some combinations of dice will score points, while others don’t. You take
+        out the dice that have scored points and then decide whether to keep that
+        score, or re-roll the remaining dice to try to score more points.
+        But if you roll again and don’t score points, you lose what you’ve
+        earned so far. So the game moves quickly and there’s an element of risk
+        that makes it really fun to play.</string>
+    <string name="edit_Player_Name">Enter Your Name</string>
+    <string name="player_Name">Player Name:</string>
+</resources>
